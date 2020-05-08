@@ -1,7 +1,7 @@
 # Blog settings
 title: Loris Bergeron's Blog
 description: > # this means to ignore newlines until "show_excerpts:"
-  Programming, Open Source, AI, Microsoft, .NET and More.
+  Programming, Open Source, AI, Microsoft, DevOps, .NET and More.
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
