@@ -16,8 +16,11 @@ minima:
 
 # Build settings
 theme: minima
+paginate: 10
+paginate_path: posts/page:num/
 
 # Plugins statement
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-paginate
