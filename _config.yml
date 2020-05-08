@@ -1,7 +1,7 @@
 # Blog settings
 title: Loris Bergeron's Blog
 description: > # this means to ignore newlines until "show_excerpts:"
-  Programming, Open Source, AI, Microsoft and More.
+  Programming, Open Source, AI, Microsoft, .NET and More.
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
@@ -12,7 +12,12 @@ minima:
     twitter: lrsbrgrn
     github:  lorisbergeron
     linkedin: lorisbergeron
-    instagram: lorisbergeron
+    telegram: ""
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+  - disclaimer.md
 
 # Build settings
 theme: minima
