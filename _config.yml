@@ -1,9 +1,9 @@
 # Blog settings
 title: Loris Bergeron's Blog
-description: > # this means to ignore newlines until "show_excerpts:"
+description: > # This means to ignore newlines until "show_excerpts:"
   Programming, Open Source, AI, Microsoft, DevOps, .NET and More.
 
-show_excerpts: true # set to true to show excerpts on the homepage
+show_excerpts: true # Set to true to show excerpts on the homepage
 
 # Theme settings
 minima:
@@ -14,8 +14,7 @@ minima:
     linkedin: lorisbergeron
     telegram: ""
 
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
+# If you want to link only specific pages in your header, uncomment this and add the path to the pages in order as they should show up
 header_pages:
   - disclaimer.md
 
