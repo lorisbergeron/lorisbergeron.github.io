@@ -23,6 +23,9 @@ theme: minima
 paginate: 10
 paginate_path: posts/page:num/
 
+# Google Analytics
+google_analytics: UA-170074037-1
+
 # Plugins statement
 plugins:
  - jekyll-feed
