@@ -5,11 +5,11 @@ author: "Loris Bergeron"
 tags: docker security devops
 ---
 
-As simple as the use of Docker may be once you have discovered this world, there is however one aspect not to be neglected: *security* 
+As simple as the use of Docker may be once you have discovered this world, there is however one aspect not to be neglected: *security*. 
 
 Docker provides us with a variety of techniques to enable us to manage sensitive information simply but effectively. This is what we call secrets.
 
-In Docker jargon, a secret is a set of data, such as a password, an SSH private key, an SSL certificate or any other information that you want to keep secret and therefore not store it unencrypted. You can use secrets to manage all the sensitive information that a container asks for at startup but that you don't want us to store in an image or in your source control system. For example: 
+In Docker jargon, a secret is a set of data, such as a password, an SSH private key, an SSL certificate or any other information that you want to keep secret and therefore not store it unencrypted. You can use secrets to manage all the sensitive information that a container asks for at runtime but that you don't want us to store in an image or in your source control system. For example: 
 
 - Usernames and passwords
 - TLS certificates and keys
@@ -17,7 +17,7 @@ In Docker jargon, a secret is a set of data, such as a password, an SSH private 
 - Other important data such as the name of a database or internal server
 - Generic strings or binary content (up to 500 kb in size)
 
-Through this article we will go through two concrete examples in which we will use this security layer. 
+Through this article we will go through three concrete examples in which we will use this security layer. 
 
 Note: Docker secrets are only available to swarm services, not to standalone containers. To use this feature, consider adapting your container to run as a service. Stateful containers can typically run with a scale of 1 without changing the container code.
 
@@ -32,7 +32,7 @@ The commands below will be very useful and represent the basics of the secrets i
 
 ### An Introduction to secrets
 
-In this first part the idea is to create very simply our first secret and use some of the commands shared above. As previously announced, secrets can only be used in a "swarm" operating mode. [More information here.](https://docs.docker.com/engine/swarm/)
+In this first part the idea is to create very simply our first secret and use some of the commands shared above. As previously announced, secrets can only be used in a swarm operating mode. [More information here.](https://docs.docker.com/engine/swarm/)
 
 1. The first step is to initialize the swarm.
 
