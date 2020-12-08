@@ -28,6 +28,12 @@ paginate_path: posts/page:num/
 # Google Analytics
 google_analytics: UA-170074037-1
 
+# Disqus Comments
+disqus:
+  # Leave shortname blank to disable comments site-wide.
+  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+  shortname: lorisbergeron
+
 # Plugins statement
 plugins:
  - jekyll-feed
