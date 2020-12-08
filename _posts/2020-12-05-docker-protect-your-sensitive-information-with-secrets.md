@@ -4,6 +4,7 @@ title:  "Docker, protect your sensitive information with secrets"
 subtitle: "A short but concrete demonstration of the use of secrets within Docker to protect sensitive information that one does not wish to store in an unsecured way."
 author: "Loris Bergeron"
 tags: docker security devops
+comments: true
 ---
 
 As simple as the use of Docker may be once you have discovered this world, there is however one aspect not to be neglected: *security*. 
