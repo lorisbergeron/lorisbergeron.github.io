@@ -4,8 +4,7 @@ author:
   name: Loris Bergeron
 description: > # This means to ignore newlines until "show_excerpts:"
   Programming, Open Source, AI, Microsoft, DevOps, .NET and More.
-baseurl: ""
-url: "lorisbergeron.github.io"
+url: https://lorisbergeron.github.io
 
 show_excerpts: true # Set to true to show excerpts on the homepage
 
