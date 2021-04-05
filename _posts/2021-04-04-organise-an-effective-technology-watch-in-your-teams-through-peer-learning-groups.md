@@ -11,7 +11,9 @@ For a long time I have tried, on a personal basis, to carry out an effective tec
 
 As you can probably imagine, this exercise requires a lot of energy and time outside of working hours, various time constraints and extra professional obligations that we all face.
 
-One day the idea came to me to intelligently solve the problem I was facing to improve and boost my personal knowledge. While reading some articles dedicated to the self-learning of individuals, I came across a concept of Prof. Eric Mazur from Harvard University that was totally unknown to me until now. The approach is based on the concept of "Peer Instruction". This is a student-centered concept that reverses the traditional classroom to shift the transfer of information to the assimilation of information, or application of learning, in the classroom. It is from there that I wanted to transpose its concept to my real problem. More information here: [Harvard Magazine, Twilight of the Lecture](https://harvardmagazine.com/2012/03/twilight-of-the-lecture)
+One day the idea came to me to intelligently solve the problem I was facing to improve and boost my personal knowledge. While reading some articles dedicated to the self-learning of individuals, I came across a concept of Prof. Eric Mazur from Harvard University that was totally unknown to me until now. 
+
+The approach is based on the concept of "Peer Instruction". This is a student-centered concept that reverses the traditional classroom to shift the transfer of information to the assimilation of information, or application of learning, in the classroom. It is from there that I wanted to transpose its concept to my real problem. More information here: [Harvard Magazine, Twilight of the Lecture](https://harvardmagazine.com/2012/03/twilight-of-the-lecture)
 
 In practice the result has been a real success and lies in the creation and development of collaborative workshops with my team on our work time. We call this approach: *Peer Learning Group*. 
 
@@ -27,9 +29,7 @@ Everyone can intervene during the workshop if the need arises, each member can t
 
 At this moment you are probably asking yourself: It sounds great, but what does it bring to my team? Rest assured, the advantages are many, diverse, and varied and respond to the modern problems of the business world. 
 
-This learning format favors the spirit of collaboration between team members while creating cohesion. If we compare this approach with the so-called traditional approach that we all know, with a teacher and students, the students are simply "receivers" of knowledge and wait for the information to come to them. 
-
-Needless to say, this traditional approach lacks interactivity and collaboration, and the point of view is only that of the one who delivers the knowledge to the others, namely the teacher. 
+This learning format favors the spirit of collaboration between team members while creating cohesion. If we compare this approach with the so-called traditional approach that we all know, with a teacher and students, the students are simply "receivers" of knowledge and wait for the information to come to them. Needless to say, this traditional approach lacks interactivity and collaboration, and the point of view is only that of the one who delivers the knowledge to the others, namely the teacher. 
 
 Unlike the traditional approach, the peer learning group approach is collaborative and has a much more dynamic energy due to the questions the team will generate during the knowledge exchange and presentation. 
 
