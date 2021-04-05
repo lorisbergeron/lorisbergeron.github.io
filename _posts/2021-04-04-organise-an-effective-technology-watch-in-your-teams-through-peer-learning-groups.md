@@ -15,7 +15,7 @@ One day the idea came to me to intelligently solve the problem I was facing to i
 
 The approach is based on the concept of "Peer Instruction". This is a student-centered concept that reverses the traditional classroom to shift the transfer of information to the assimilation of information, or application of learning, in the classroom. It is from there that I wanted to transpose its concept to my real problem. More information here: [Harvard Magazine, Twilight of the Lecture](https://harvardmagazine.com/2012/03/twilight-of-the-lecture)
 
-In practice the result has been a real success and lies in the creation and development of collaborative workshops with my team on our work time. We call this approach: *Peer Learning Group*. 
+In practice the result has been a real success and lies in the creation and development of collaborative workshops for my team on our work time. We call this approach: *Peer Learning Group*.
 
 ### What is peer learning group? 
 
