@@ -9,6 +9,7 @@ permalink: /about/
 
 As the title of this website indicates, my name is Loris Bergeron. I am passionate about new technologies whatever the domain, the language and the final objective of their use. 
 I am convinced that sharing knowledge allows us to grow and move forward together and this is the leitmotiv of the existence of this website. 
+
 I try to pass on some of my knowledge through short, concrete and playful articles and maybe bring you some help and/or arouse your personal curiosity. I believe deeply in the open-source philosophy but also in the themes of AI and Machine Learning.
 
 A motto that characterises my daily work and thinking? It is, of course, the quote from Leonardo da Vinci: *&#8220;Simplicity is the ultimate sophistication.&#8221;*
