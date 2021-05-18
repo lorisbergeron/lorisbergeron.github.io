@@ -8,8 +8,8 @@
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
   {%- feed_meta -%}
 
-  {%- if jekyll.environment == 'production' and site.google_analytics -%}
-    {%- include google-analytics.html -%}
+  {%- if jekyll.environment == 'production' -%}
+    {%- include umami-analytics.html -%}
   {%- endif -%}
 
   {% if page.subtitle %}
