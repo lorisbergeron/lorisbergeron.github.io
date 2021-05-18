@@ -7,9 +7,7 @@ tags: agile peer learning team technology watch scrum
 comments: true
 ---
 
-For a long time I have tried, on a personal basis, to carry out an effective technological watch while trying to be as concise and efficient as possible in order to advance my skills.
-
-As you can probably imagine, this exercise requires a lot of energy and time outside of working hours, various time constraints and extra professional obligations that we all face.
+For a long time I have tried, on a personal basis, to carry out an effective technological watch while trying to be as concise and efficient as possible in order to advance my skills. As you can probably imagine, this exercise requires a lot of energy and time outside of working hours, various time constraints and extra professional obligations that we all face.
 
 One day the idea came to me to intelligently solve the problem I was facing to improve and boost my personal knowledge. While reading some articles dedicated to the self-learning of individuals, I came across a concept of Prof. Eric Mazur from Harvard University that was totally unknown to me until now. 
 

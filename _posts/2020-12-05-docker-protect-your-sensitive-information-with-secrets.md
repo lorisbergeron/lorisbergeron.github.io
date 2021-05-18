@@ -7,9 +7,7 @@ tags: docker security devops
 comments: true
 ---
 
-As simple as the use of Docker may be once you have discovered this world, there is however one aspect not to be neglected: *security*. 
-
-Docker provides us with a variety of techniques to enable us to manage sensitive information simply but effectively. This is what we call secrets.
+As simple as the use of Docker may be once you have discovered this world, there is however one aspect not to be neglected: *security*. Docker provides us with a variety of techniques to enable us to manage sensitive information simply but effectively. This is what we call secrets.
 
 In Docker jargon, a secret is a set of data, such as a password, an SSH private key, an SSL certificate or any other information that you want to keep secret and therefore not store it unencrypted. You can use secrets to manage all the sensitive information that a container asks for at runtime but that you don't want us to store in an image or in your source control system. For example: 
 
